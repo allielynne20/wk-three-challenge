@@ -12,7 +12,7 @@ The purpose of this web page is to generate a random password for the user. The 
 ![Make your own random password!](./assets/passwordgenerator.PNG)
 
 ## Website
-file:///C:/Users/awatk/OneDrive/Desktop/03Challenge/wk-two-challenge/index.html
+https://allielynne20.github.io/wk-two-challenge/
 
 ## Contribution
 I worked on this project with a study group and a Teaching Assistant. The members of our study group were: Carolina Cabrera, Josh Hall, Shaun Mardones, Joesph Klein, and Teaching Assistant Alex Costan. 
